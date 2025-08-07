@@ -1,0 +1,12 @@
+# PyRogue2025 專案依賴套件
+# RoguelikeDev Tutorial 2025 - Part 0 環境設定
+
+# 核心遊戲引擎
+tcod>=19.0.0
+# 注意：現代版本的 tcod 會自動處理 SDL2 依賴 (Windows)
+# Linux 系統可能需要額外安裝：sudo apt-get install libsdl2-dev
+
+# 中文字體支援和音效處理
+pygame>=2.6.0
+
+# 開發工具請參考：requirements-dev.txt

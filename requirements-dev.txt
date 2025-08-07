@@ -1,0 +1,14 @@
+# PyRogue2025 開發工具依賴套件
+# 用於程式碼品質管控和測試
+
+# 程式碼格式化工具
+black>=24.0.0
+
+# 程式碼檢查工具  
+flake8>=7.0.0
+
+# 測試框架
+pytest>=8.0.0
+
+# 安裝方式：
+# pip install -r requirements-dev.txt
